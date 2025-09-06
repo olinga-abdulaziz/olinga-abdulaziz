@@ -1,56 +1,4 @@
 
-<h3 align="center">A passionate fullstack developer and software engeneer in Kenya</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olinga-abdulaziz&label=Profile%20views&color=0e75b6&style=flat" alt="olinga-abdulaziz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olinga-abdulaziz" alt="olinga-abdulaziz" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/abdulaziz_syd" target="blank"><img src="https://img.shields.io/twitter/follow/abdulaziz_syd?logo=twitter&style=for-the-badge" alt="abdulaziz_syd" /></a> </p>
-
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olinga-abdulaziz&show_icons=true&locale=en&layout=compact" alt="olinga-abdulaziz" /></p>
-
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      background-color: #f4f4f9;
-      color: #333;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background-color: #2c3e50;
-      color: white;
-      padding: 20px;
-      text-align: center;
-    }
-    section {
-      padding: 20px;
-      margin: 10px;
-      background-color: white;
-      border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-    li {
-      margin: 5px 0;
-    }
-    footer {
-      text-align: center;
-      padding: 10px;
-      background-color: #2c3e50;
-      color: white;
-    }
-  </style>
-</head>
 <body>
   <header>
     <h1 align="center">Hi 👋, I'm Abdulaziz Said</h1>
@@ -77,6 +25,18 @@
       <li>📅 Commits: 1000+</li>
     </ul>
   </section>
+
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=olinga-abdulaziz&label=Profile%20views&color=0e75b6&style=flat" alt="olinga-abdulaziz" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olinga-abdulaziz" alt="olinga-abdulaziz" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/abdulaziz_syd" target="blank"><img src="https://img.shields.io/twitter/follow/abdulaziz_syd?logo=twitter&style=for-the-badge" alt="abdulaziz_syd" /></a> </p>
+
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olinga-abdulaziz&show_icons=true&locale=en&layout=compact" alt="olinga-abdulaziz" /></p>
 
 
   <section>
